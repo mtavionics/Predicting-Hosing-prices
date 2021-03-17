@@ -1,2 +1,2 @@
-Summary
+
 This final project shows basic machine learning concepts on data collected for housing prices in Boston, MA. We will predict the selling price of a new home. This project is designed to get acquainted to working with Cassandra’s datasets in Python and applying basic machine learning techniques using NumPy and Scikit-Learn. Working on that project I was able to use different tools to achieve one goal and was able to go through the whole process: from setting up an environment and creating a database to predicting prices by choosing the prediction model.
